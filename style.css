@@ -1,0 +1,96 @@
+body{
+    /* background-color: green; */
+    width: 100vw;
+    min-height: 100vh;
+    background: url(assets/composition-beautiful-mother-s-day-elements.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.card{
+    width: 28%;
+    background-color: brown;
+    height: 40%;
+   padding-left: 4rem;
+   padding-top: 4rem;
+}
+.card2{
+    width: 28%;
+    background-color: green;
+    height: 40%;
+    padding-left: 4rem;
+    padding-top: 4rem;
+    margin-left: 19rem;
+    margin-top: 7rem;
+    padding-bottom: 4rem;
+}
+.CARD3{
+    width: 100%;
+    background-color: blue;
+    height: 40%;
+    padding-top: 4rem;
+    margin-top: 4rem;
+    margin-right: 5rem;
+    padding-bottom: 4rem;
+    padding-left: 4rem;
+}
+.card4{
+    width: 28%;
+    background-color: blanchedalmond;
+    height: 40%;
+    margin-left: 45rem;
+    margin-top: 7rem;
+    padding-left:4rem ;
+    padding-top: 4rem;
+}
+.card1{
+    color: purple;
+    font-size: 1rem;
+    font-style: oblique;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    /* gap: 5rem4; */
+    background-color: rgb(88, 81, 81);
+    
+}
+.links{
+    display: flex;
+    gap: 3rem;
+}
+.gap{
+    display: flex;
+    justify-content: center;
+    gap:1rem ;
+}
+.benita{
+    display: flex;
+    justify-content: space-between ; 
+    padding: 1rem 2rem;
+}
+.kirabo{
+    display: flex;
+    gap: 2rem
+    justify
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+.container{
+    display: flex;
+    padding: 1rem 2rem;
+    justify-content: space-between;
+    background-color: red;
+}
+.c{
+    display: flex;
+    justify-content: space-between;
+}
+.d{
+    display: flex;
+    gap: 7rem;
+}
